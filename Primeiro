@@ -1,0 +1,122 @@
+<html>
+    <head>
+        <title>Resumo de HTML</title>
+    </head>
+    <body>
+    <h1 style="color:red">Evolução dos computadores</h1>
+        <ul>
+            <li><strong>1ª Geração:</strong>Mark 1 em 1944, Colossus em 1946(Alemanha) e ENIAC em 1946 (EUA)</li>
+            <li><strong>2ª Geração:</strong>1959 a 1965 – começou a usar transistores</li>
+            <li><strong>3ª Geração:</strong>Circuitos integrados, transistores,  capacitores, resistores.</li>
+            <li><strong>4ª Geração:</strong>1971 até os dias de hoje microprocessadores</li>
+            <li><strong>5ª Geração:</strong>Computadores quânticos e inteligências artificiais </li>
+       </ul>
+       <h1 style="font-family:'Courier New"><strong>Evolução da internet</strong></h1>
+      <Ul>
+        <li>Telégrafo</strong></li>
+        <li>1958 – Cabo instalado no oceano</li>
+        <li>Década de 1950 – Guerra fria – Eniac fazia cálculos de balística</li>
+        <li>arpa – Joseph Carl Robnett Licklider – teorizou uma rede onde todos poderiam se conectar</strong></li>
+        <li>Arpanet – Sistema de comunicação em pacotes, enviados um a um e que permitia múltiplos destinos</strong></li>
+        <li>Primeira conexão em pontos distintos – 29/10/1969 – UCLA,SRI</li>
+        <li>Palavra login, mas só chegou “LO”</li>
+      </Ul> 
+      <hr/>
+    <H3>Grandes colaboradores na evolução da internet</H3>
+      <ol>
+        <li><a href="#Vin"><strong><i>Vinton Cerf e Robert Kahn</i></strong></a></li>
+        <li><a href="#Tim"><strong><i>Tim Berners-Lee</i></strong></a></li>
+        <li><a href="#Gra"><strong><i>Grace Murray Hopper</i></strong></a></li>
+        <li><a href="#Jos"><strong><i>Joseph Carl Robnett Licklider</i></strong></a></li>
+        <li><a href="#Bil"><strong><i>Bill Gates</i></strong></a></li>
+        <li><a href="#Ste"><strong><i>Steve Jobs</i></strong></a></li>
+     </ol>
+    <h4 id="Vin"><Strong>Vinton Cerf e Robert Kahn</Strong></h4>
+      <p>Criaram o protocolo de comunicação TCP/IP. Responsáveis pela primeira apresentação pública da Arpanet.Apresentou o primeiro e-mail.</p>
+       <a href="https://pt.wikipedia.org/wiki/Vint_Cerf">Saiba mais</a></a>
+    <h4 id="Tim"><Strong>Tim Berners-Lee</Strong></h4>
+      <p>Em 1989, Tim Berners-Lee viu a oportunidade de unir hipertexto com tcp/ip e criar a world wide web e criou o primeiro navegador chamado worlwideweb.</p>
+      <p>Também conhecido com inventor do <i>www</i>, é diretor do <i>World Wide Consortium (W3C). Foi homenageado inclusive pela rainha Elixabeth.</i></p>
+      <p>Popularizou o protocolo HTTP e o HTML.</p>
+      <a href="https://pt.wikipedia.org/wiki/Tim_Berners-Lee">Saiba mais</a></a>
+    <h4 id="Gra"><Strong>Grace Murray Hopper</Strong></h4>
+      <p>Uma das primeiras programadoras do Mark 1 em 1944, era da mainha dos Estados Unidos.</p>
+      <p>Criadora da linguagem de programação de alto nível Flow-Matic (Base do COBOL)</p>
+      <p>Termo <i>"BUG"</i> na computação.</p>
+      <a href="https://pt.wikipedia.org/wiki/Grace_Hopper">Saiba mais</a></a>
+    <h4 id="Jos"><Strong>Joseph Carl Robnett Licklider</Strong></h4>
+      <p>Recrutado pela DARPA depois de teorizar sobre uma rede galáctica de computadores.</p>
+      <p>Plantou a semente da comunicação entre dois pontos distintos através do computador.</p>
+      <a href="https://pt.wikipedia.org/wiki/Joseph_Carl_Robnett_Licklider">Saiba mais</a></a>
+    <h4 id="Bil"><Strong>Bill Gates</Strong></h4>
+      <p>Fundador da microsoft;</p>
+      <p>Criou o internet explorer.</p>
+      <p>Tornou acessível para todos computadores e com isso o acesso a internet.</p>
+      <a href="https://pt.wikipedia.org/wiki/Bill_Gates">Saiba mais</a></a>
+    <h4 id="Ste"><Strong>Steve Jobs</Strong></h4>
+      <p>Fundador da apple;</p>
+      <p>Concorrente microsoft</p>
+      <p>Popularizou um smartphone com o iphone em 2007.</p>
+      <a href="https://pt.wikipedia.org/wiki/Steve_Jobs">Saiba mais</a></a>
+    <h5><strong>O que são clients?Informações gerais sobre Internet</strong></h5>
+      <p>É aquele que está consumindo a informação na internet.</p>
+      <p>Hospedar: Colocar arquivo no servidor.</p>
+      <p>O design deve ser responsivo (se adaptar em várias telas) para isso deve fazer boas práticas e testar o código diversas vezes.</p>
+    <h5><strong>Navegadores</strong></h5>
+      <p>São programas utilizados para abrir/executar arquivos do servidor web.</p>
+      <p>Seguem padrões W3C, porém, sempre tem uma diferença ou outra de interpretação.</p>
+      <p>Também chamados de browsers.</p>
+      <p>Iniciou com o MOSAIC, passou pelo Netscape e hoje temos uma variedade de navegadores disponíveis gratuitos.</p>
+    <h5><strong>Site para verificaçã o de TAGS</strong></h5>
+      <a href="www.w3schools.com/tags/ref_html_browsersupport.asp">W3school</a>
+    <h5><strong>Aplicações WEB</strong></h5>
+      <p>Aplicações web são soluções criadas que possuem a internet como meio de comunicação e não é necessário a sua instalação no computador.</p>
+      <p>Quando abre através do navegador = aplicação web.</p>
+      <p>Quando instala no computador = não é aplicação web.</p>
+       </body>
+    <h4>Dispositivos Móveis</h4>
+      <p>9 de cada 10 pessoas usam smartphones</p>
+    <h4>Servidores</h4>
+      <p>Computador central que serve de apoio para demais maquinas da rede (local).</p>
+      <p>O servidor deve ser um computador mais robusto.</p>
+      <p>Data Centers = lugar que reúne diversos servidores.</p>
+      <p><strong>Principais Sistemas para servidores:</strong></p>
+        <ul>
+            <li>Windows Server</li>
+            <li>Cent OS</li>
+            <li>Debian</li>
+            <li>Oracle Linux</li>
+            <li>Fedora</li>
+        </ul>
+    <h4>Tipos de Servidores</h4>
+      <ul>
+        <li>Servidor de arquivos</li>
+        <li>Servidor de segurança</li>
+        <li>Servidor de streaming</li>
+        <li>Servidor de web</li>
+        <li>Servidor de banco de dados</li>
+      </ul>
+      <p><strong>Servidores WEB:</strong></p>
+      <ul>
+          <li>Apache Server</li>
+          <li>NGINCS</li>
+      </ul>
+      <p><strong>Servidor DNS</strong></p>
+      <p>→ Compra de domínios no Brasil é pelo site registro.br.</p>
+      <p>→ Contratar servidor de hospedagem.</p>
+    <h4>Linguagens de programação mais populares em junho de 2023<sup>1</sup></h4> 
+     <ol>
+        <li>Javascript</li>
+        <li>Python</li>
+        <li>Java</li>
+        <li>PHP</li>
+        <li>C#</li>
+     </ol>        
+          <sub>1 - De acordo com o site hostinger</sub>
+     <p><a href="https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas">Hostinger</a></p> 
+    
+     <body background="https://casoca.com.br/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/p/i/pisocimentoqueimadoconcretosuave_1.jpg">
+     </body>
+
+
+     </html>
